@@ -1,0 +1,29 @@
+html{
+    /*height:100%;*/
+}
+body{
+    /*height: 100%;*/
+    margin:0;
+}
+.scroll{
+
+}
+.scroll>div{
+    display: block;
+    height: 100vh;
+}
+.scroll>div:nth-child(1){
+    background-color: #464646;
+}
+.scroll>div:nth-child(2){
+    background-color: #47afff;
+}
+.scroll>div:nth-child(3){
+    background-color: #c4a200;
+}
+.scroll>div:nth-child(4){
+    background-color: #ff707f;
+}
+.scroll>div:nth-child(5){
+    background-color: #ff2dde;
+}
